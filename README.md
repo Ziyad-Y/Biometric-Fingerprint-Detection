@@ -6,3 +6,8 @@ Fingerprint Sensor
 3v USB-to-TTL cable
 
 ![3v USB-to-TTL](imgs/usb-ttl.png)
+
+## usage ##  
+```bash
+pip install -r 
+```
